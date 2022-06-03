@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zoo-typescript/static/css/main.7b16bd7e.css",
+    "main.js": "/zoo-typescript/static/js/main.3b04efd9.js",
+    "static/media/hippo.png": "/zoo-typescript/static/media/hippo.e3378900ce19a30ab094.png",
+    "static/media/giraffe.png": "/zoo-typescript/static/media/giraffe.701a62233d122d10cdd9.png",
+    "static/media/wolf.png": "/zoo-typescript/static/media/wolf.79fc88ea603d335366c4.png",
+    "index.html": "/zoo-typescript/index.html",
+    "main.7b16bd7e.css.map": "/zoo-typescript/static/css/main.7b16bd7e.css.map",
+    "main.3b04efd9.js.map": "/zoo-typescript/static/js/main.3b04efd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b16bd7e.css",
+    "static/js/main.3b04efd9.js"
+  ]
+}
